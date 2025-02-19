@@ -6,7 +6,7 @@ function Get-RequiredPercentage {
     
     switch ($calificacion) {
         5 { return 95 }
-        4 { return 60 }
+        4 { return 90 }
         3 { return 40 }
         2 { return 38 }
         1 { return 5 }
